@@ -2,7 +2,7 @@
 Howdy Calcula is a simplistic calculator created using React.js.
 ## How to view the webpage
 ### Run online
-If you desire to view the project, click the link at the description.
+If you desire to view the project, click the link at the description. Alternatively, click <a href="howdyproj.github.io/calcula/">This link.</a>
 ### Run offline
 Install the files from this repository. Then, open <code>index.html</code>. You will receive the opportunities to visit the webpage now!
 ## Possible issues / bugs
